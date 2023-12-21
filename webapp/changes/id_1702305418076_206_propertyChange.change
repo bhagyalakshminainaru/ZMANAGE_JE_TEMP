@@ -1,0 +1,29 @@
+{
+	"changeType": "propertyChange",
+	"reference": "customer.ZFIN.GLDOCDISP",
+	"namespace": "apps/customer.ZFIN.GLDOCDISP/changes/",
+	"projectId": "customer.ZFIN.GLDOCDISP",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"command": "property",
+		"sapui5Version": "1.120.0"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1702305418076_206_propertyChange",
+	"content": {
+		"property": "visible",
+		"newValue": false
+	},
+	"texts": {},
+	"selector": {
+		"id": "s1--btnMassReverse",
+		"type": "sap.m.Button",
+		"idIsLocal": true
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2023-12-11T14:36:58.253Z"
+}
